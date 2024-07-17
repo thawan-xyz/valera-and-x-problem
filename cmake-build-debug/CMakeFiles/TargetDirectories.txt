@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/valera-and-x-problem/cmake-build-debug/CMakeFiles/valera_and_x_problem.dir
+C:/Users/Thawan/CLionProjects/valera-and-x-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/valera-and-x-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
